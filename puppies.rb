@@ -3,7 +3,7 @@
 
 
 def no_puppies
-puppies = gets.chomp
+puppies = 0
   if puppies > 0
     puts "No more puppies!"
   elsif 
