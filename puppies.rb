@@ -4,7 +4,7 @@
 
 def no_puppies()
   puppies = gets.chomp
-  if gets.chomp > 0
+  if puppies > 0
     puts "No more puppies!"
   elsif 
     puts "Well done, Rachel"
