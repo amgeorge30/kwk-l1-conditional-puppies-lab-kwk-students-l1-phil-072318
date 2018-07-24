@@ -2,7 +2,7 @@
 
 
 
-def no_puppies(puppies)
+def no_puppies()
   puppies = gets.chomp
   if gets.chomp > 0
     puts "No more puppies!"
