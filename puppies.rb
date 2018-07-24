@@ -3,6 +3,7 @@
 
 
 def no_puppies()
+  puts "How many puppies do you have?"
   puppies = gets.chomp
   if puppies > 0
     puts "No more puppies!"
