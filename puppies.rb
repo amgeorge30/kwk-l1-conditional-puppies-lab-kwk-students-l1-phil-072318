@@ -2,8 +2,8 @@
 
 
 
-def no_puppies(puppies)
-  if puppies > 0
+def no_puppies(gets.chomp)
+  if gets.chomp > 0
     puts "No more puppies!"
   elsif 
     puts "Well done, Rachel"
